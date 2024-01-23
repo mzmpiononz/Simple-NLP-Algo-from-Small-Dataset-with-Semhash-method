@@ -1,0 +1,120 @@
+I would like to reserve a room please.	booking
+a room for 2 people please.	booking
+I would like to reserve a table for 6 people for next Monday.	booking
+Reserve a room for two for this nights	booking
+I'd like to make a reservation for a single room please.	booking
+Ich möchte bitte ein Zimmer reservieren.	buchung
+Bitte ein Zimmer für 2 Personen.	buchung
+Ich möchte für nächsten Montag einen Tisch für 6 Personen reservieren.	buchung
+Reservieren Sie für diese Nacht ein Zimmer für zwei Personen.	buchung
+Ich möchte bitte ein Einzelzimmer reservieren.	buchung
+Can I reserve a table for four people on friday evening around 7pm?	booking
+I need to book a room for the weekend starting tommorow.	booking
+Please make a reservation for two in the dining area for lunch on next sunday.	booking
+I'd like to book a room with a king-size bed for 3 nights.	booking
+Can I reserve a table near the window for a party of six on saturday?	booking
+Kann ich am Freitagabend gegen 19 Uhr einen Tisch für vier Personen reservieren?	buchung
+Ich muss ab morgen ein Zimmer für das Wochenende buchen.	buchung
+Bitte reservieren Sie für das Mittagessen am nächsten Sonntag für zwei Personen den Speisesaal.	buchung
+Ich möchte für 3 Nächte ein Zimmer mit Kingsize-Bett buchen.	buchung
+Kann ich für eine Gruppe von sechs Personen am Samstag einen Tisch am Fenster reservieren?	buchung
+Make a reservation for a family room for 2 nights starting monday.	booking
+I'd like to book a private dining room for a private celebration.	booking
+Can you help me reserve an executive suite for one week?	booking
+Book a table for two at your rooftop restaurant on tuesday.	booking
+I need to reserve a room with twin beds.	booking
+Reservieren Sie ab Montag ein Familienzimmer für 2 Nächte.	buchung
+Ich möchte einen privaten Speisesaal für eine private Feier buchen.	buchung
+Können Sie mir helfen, eine Executive Suite für eine Woche zu reservieren?	buchung
+Reservieren Sie am Dienstag einen Tisch für zwei Personen in Ihrem Dachrestaurant.	buchung
+Ich muss ein Zimmer mit zwei Einzelbetten reservieren.	buchung
+I'd like to make a booking for a group of ten people for a business dinner on this week.	booking
+Please arrange a table for four in a quiet corner for this evening.	booking
+I'm looking to book a room with a city view for the weekend starting today.	booking
+I want to reserve a room with a bathtub.	booking
+Book a table for a romantic dinner for two on next monday at 6pm.	booking
+Ich möchte diese Woche ein Geschäftsessen für eine Gruppe von zehn Personen buchen.	buchung
+Bitte stellen Sie für diesen Abend einen Tisch für vier Personen in einer ruhigen Ecke bereit.	buchung
+Ich möchte ab heute für das Wochenende ein Zimmer mit Stadtblick buchen.	buchung
+Ich möchte ein Zimmer mit Badewanne reservieren.	buchung
+Reservieren Sie einen Tisch für ein romantisches Abendessen zu zweit am kommenden Montag um 18 Uhr.	buchung
+what are your opening hours?	infoline-eng
+what are your prices?	infoline-eng
+where is the hotel please ?	infoline-eng
+Are you available 24/7?	infoline-eng
+Can you provide information on your restaurant's menu and specials for today?	infoline-eng
+Wie sind Ihre Öffnungszeiten?	infoline-deu
+Wie hoch sind Ihre Preise?	infoline-deu
+Wo ist bitte das Hotel?	infoline-deu
+Sind Sie rund um die Uhr erreichbar?	infoline-deu
+Können Sie uns Auskunft über die Speisekarte und die Sonderangebote Ihres Restaurants für heute geben?	infoline-deu
+What time does breakfast service start at your hotel-restaurant?	infoline-eng
+I'd like details on your hotel amenities, such as parking and Wi-Fi.	infoline-eng
+Can you tell me if you have any promotions or discounts for booking multiple nights?	infoline-eng
+What is the cancellation policy for room reservations at your hotel?	infoline-eng
+Do you offer room service, and if so, what are the available hours?	infoline-eng
+Wann beginnt der Frühstücksservice in Ihrem Hotelrestaurant?	infoline-deu
+Ich hätte gerne Einzelheiten zu den Annehmlichkeiten Ihres Hotels, z. B. Parkplätze und WLAN.	infoline-deu
+Können Sie mir sagen, ob Sie Sonderangebote oder Rabatte für die Buchung mehrerer Nächte haben?	infoline-deu
+Welche Stornierungsbedingungen gelten für Zimmerreservierungen in Ihrem Hotel?	infoline-deu
+Bieten Sie einen Zimmerservice an und wenn ja, wie sind die Öffnungszeiten?	infoline-deu
+What is your check-in and check-out time for hotel guests?	infoline-eng
+Can you tell me about the facilities available for meetings or events?	infoline-eng
+What is the process for requesting a late check-out for hotel guests?	infoline-eng
+Provide details on any pet-friendly accommodations or policies.	infoline-eng
+I'd like to know about your hotel's proximity to local attractions and transportation options.	infoline-eng
+Wie sind die Check-in- und Check-out-Zeiten für Hotelgäste?	infoline-deu
+Können Sie mir etwas über die Einrichtungen sagen, die für Tagungen oder Veranstaltungen zur Verfügung stehen?	infoline-deu
+Wie erfolgt die Beantragung eines späten Check-outs für Hotelgäste?	infoline-deu
+Geben Sie Einzelheiten zu haustierfreundlichen Unterkünften oder Richtlinien an.	infoline-deu
+Ich würde gerne wissen, ob Ihr Hotel in der Nähe lokaler Sehenswürdigkeiten und Transportmöglichkeiten liegt.	infoline-deu
+Can you assist with arranging transportation from the airport to the hotel?	infoline-eng
+Are there any fitness or wellness facilities available for hotel guests?	infoline-eng
+What types of payment methods do you accept for room reservations and restaurant bills?	infoline-eng
+Can you provide information on accessibility features for guests with special needs?	infoline-eng
+Tell me about your loyalty program and any benefits for frequent guests.	infoline-eng
+Können Sie bei der Organisation des Transports vom Flughafen zum Hotel behilflich sein?	infoline-deu
+Gibt es Fitness- oder Wellnesseinrichtungen für Hotelgäste?	infoline-deu
+Welche Zahlungsarten akzeptieren Sie für Zimmerreservierungen und Restaurantrechnungen?	infoline-deu
+Können Sie Informationen zur Barrierefreiheit für Gäste mit besonderen Bedürfnissen bereitstellen?	infoline-deu
+Erzählen Sie mir von Ihrem Treueprogramm und den Vorteilen für Stammgäste.	infoline-deu
+Your menu is very good	remarks
+the waiting time was a little long I think	remarks
+I was satisfied with my stay, see you next time	remarks
+I have some comments about the service during my stay at your hotel. How can I share them?	remarks
+I wanted to express my appreciation for the excellent service I received during my visit.	remarks
+Ihre Speisekarte ist sehr gut.	bemerkungen
+Die Wartezeit war meiner Meinung nach etwas lang.	bemerkungen
+Ich war mit meinem Aufenthalt zufrieden, bis zum nächsten Mal.	bemerkungen
+Ich habe einige Anmerkungen zum Service während meines Aufenthalts in Ihrem Hotel. Wie kann ich sie teilen?	bemerkungen
+Ich möchte meine Wertschätzung für den hervorragenden Service zum Ausdruck bringen, den ich während meines Besuchs erhalten habe.	bemerkungen
+I have a suggestion regarding the menu. Where can I submit it?	remarks
+Is there a feedback form I can fill out to share my thoughts on the room cleanliness?	remarks
+I'd like to leave a positive review for the attentive staff at your restaurant.	remarks
+I have some concerns about noise levels in my room. Can someone address this?	remarks
+I wanted to compliment the chef on the outstanding meal I had at your restaurant.	remarks
+Ich habe einen Vorschlag bezüglich der Speisekarte. Wo kann ich es einreichen?	bemerkungen
+Gibt es ein Feedback-Formular, das ich ausfüllen kann, um meine Gedanken zur Zimmersauberkeit mitzuteilen?	bemerkungen
+Ich möchte eine positive Bewertung für das aufmerksame Personal in Ihrem Restaurant hinterlassen.	bemerkungen
+Ich habe einige Bedenken hinsichtlich des Geräuschpegels in meinem Zimmer. Kann jemand darauf eingehen?	bemerkungen
+Ich wollte dem Koch ein Kompliment für das hervorragende Essen machen, das ich in Ihrem Restaurant gegessen habe.	bemerkungen
+I have a few remarks about the check-in process. How can I provide this feedback?	remarks
+Can you guide me on how to leave a review about the overall hotel experience?	remarks
+I'd like to share some positive comments about the ambiance in your restaurant.	remarks
+I encountered a problem with the heating in my room. How can this be addressed?	remarks
+I wanted to express my gratitude for the prompt resolution of a concern I raised.	remarks
+Ich habe ein paar Anmerkungen zum Check-in-Vorgang. Wie kann ich dieses Feedback geben?	bemerkungen
+Können Sie mir zeigen, wie ich eine Bewertung zum gesamten Hotelerlebnis abgeben kann?	bemerkungen
+Ich möchte Ihnen einige positive Kommentare zum Ambiente in Ihrem Restaurant mitteilen.	bemerkungen
+Ich hatte ein Problem mit der Heizung in meinem Zimmer. Wie kann dies angegangen werden?	bemerkungen
+Ich wollte mich für die schnelle Lösung eines von mir geäußerten Anliegens bedanken.	bemerkungen
+I have feedback on the room service. How can I make sure it reaches the right department?	remarks
+I'd like to report a minor issue with the bathroom amenities in my room.	remarks
+I have some positive remarks about the professionalism of your front desk staff.	remarks
+Can you provide information on how customer feedback is used to improve services?	remarks
+I'd like to share a compliment about the efficiency of your hotel's check-out process.	remarks
+Ich habe Feedback zum Zimmerservice. Wie kann ich sicherstellen, dass es die richtige Abteilung erreicht?	bemerkungen
+Ich möchte ein kleines Problem mit den Toilettenartikeln in meinem Zimmer melden.	bemerkungen
+Ich habe einige positive Bemerkungen über die Professionalität Ihres Personals an der Rezeption.	bemerkungen
+Können Sie Auskunft darüber geben, wie Kundenfeedback zur Verbesserung der Dienstleistungen genutzt wird?	bemerkungen
+Ich möchte Ihnen ein Kompliment für die Effizienz des Check-out-Prozesses in Ihrem Hotel aussprechen.	bemerkungen
