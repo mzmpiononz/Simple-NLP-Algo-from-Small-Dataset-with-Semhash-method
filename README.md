@@ -23,7 +23,12 @@ Is there a customer feedback hotline I can call to discuss my recent stay?	remar
 Saved in CSV format.
 
 - *train.csv* : training phrases
-- *test.csv* : test phrases 
+- *test.csv* : test phrases
+
+### Requirements
+```
+pip install numpy sckit-learn
+``` 
 
 ### Usage
 
