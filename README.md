@@ -60,7 +60,7 @@ print(intent_names[my_model.predict(inference_preprocess(phrase))[0]])
 ``` 
 
 ### Demo
-I integrated the intent classifier into a simple chatbot, using the botpress framework
+I integrated the intent classifier into a simple chatbot, using the botpress framework\
 running the intent classifier as an [API with flask](https://github.com/mzmpiononz/Simple-NLP-Algo-from-Small-Dataset-with-Semhash-method/blob/main/server.py).
 ![](https://github.com/mzmpiononz/Simple-NLP-Algo-from-Small-Dataset-with-Semhash-method/blob/main/hotresbot.gif)
 
