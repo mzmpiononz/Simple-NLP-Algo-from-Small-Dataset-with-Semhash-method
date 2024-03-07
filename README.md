@@ -59,6 +59,12 @@ phrase = 'Ich möchte bitte einen Tisch reservieren.'
 print(intent_names[my_model.predict(inference_preprocess(phrase))[0]])
 ``` 
 
+### Demo
+I integrated the intent classifier into a simple chatbot, using the botpress framework
+running the intent classifier as an [API with flask](https://github.com/mzmpiononz/Simple-NLP-Algo-from-Small-Dataset-with-Semhash-method/blob/main/server.py).
+![](https://github.com/mzmpiononz/Simple-NLP-Algo-from-Small-Dataset-with-Semhash-method/blob/main/hotresbot.gif)
+
+
 ### References:
 - [know-your-intent](https://github.com/kumar-shridhar/Know-Your-Intent/tree/master)
 - [Subword Semantic Hashing for Intent Classification on Small Datasets.](https://arxiv.org/abs/1810.07150)
