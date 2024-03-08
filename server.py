@@ -1,6 +1,6 @@
 import pickle
 from flask import Flask, request, jsonify
-from utils import semhash_training, inference_preprocess
+from utils import inference_preprocess
 
 # the intent name in ENG and DEU
 intent_names = ['booking', 'buchung', 'infoline-eng', 'infoline-deu', 'remarks', 'bemerkungen']
