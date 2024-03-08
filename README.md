@@ -47,6 +47,8 @@ intent_names = ['booking', 'buchung', 'infoline-eng', 'infoline-deu', 'remarks',
 # the place where we want to save our model
 model_path = "my_model.pkl"
 
+# Training to find the best model
+semhash_training(filename_train, filename_test, intent_names, model_path)
 
 # INFERENCE
 # load the model
