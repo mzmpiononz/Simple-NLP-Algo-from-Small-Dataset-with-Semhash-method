@@ -27,7 +27,7 @@ Saved in CSV format.
 
 ### Requirements
 ```
-pip install numpy sckit-learn
+pip install numpy sckit-learn pickle
 ``` 
 
 ### Usage
